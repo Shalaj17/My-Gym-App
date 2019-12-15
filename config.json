@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/gym-app",
+    "apiUrl": "http://localhost:3000/api",
+    "secret": "IT CAN BE ANY STRING"
+}
